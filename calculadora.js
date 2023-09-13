@@ -1,3 +1,4 @@
+//Calculadora de Investimentos - JS
 var valorInicial = parseFloat(prompt("Digite o valor inicial do investimento:"));
 var depositoMensal = parseFloat(prompt("Digite o valor do depósito mensal:"));
 var taxa = parseFloat(prompt("Digite a taxa de juros mensal:"));
