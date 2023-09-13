@@ -1,3 +1,4 @@
+//Script - Números
 function checar(num){
     if(num===0){
         console.log("O número " + num + " é zero")
